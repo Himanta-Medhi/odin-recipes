@@ -11,6 +11,6 @@ This is my first web development project — a simple HTML page that displays re
   - Pizza
 - Organized using headings, paragraphs, and lists
 
-##Screenshots
+## Screenshots
 
 ![Screenshot of Recipe Page](images/ss.png)
